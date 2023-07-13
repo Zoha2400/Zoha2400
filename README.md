@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Zoha2400
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Zohir</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer engineering student</h3>
+
+
 - 👀 I’m interested in web-programming, and in all programming. 
 - 🌱 I’m currently learning JavaScript frameworks and C++ because of my university. 
 - 💞️ I’m looking to collaborate on Google
