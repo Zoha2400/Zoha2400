@@ -9,5 +9,4 @@ Zoha2400/Zoha2400 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-:javascript: JavaScript | :css: CSS | :html: HTML | :react: ReactJS | :nodejs: Node.js | :rust: Rust | :cplusplus: C++ | :qt: Qt | :python: Python
 
